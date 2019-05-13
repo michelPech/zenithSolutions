@@ -520,6 +520,13 @@
 	#form
 	{
 	}
+	
+	#corpo
+	{
+		text-family: .fa-glass:before{content:"\f000"};
+		text-decoration: bold;
+		text-align: center;
+	}	
 
 /*********************************************************************************/
 /* Table                                                                         */
